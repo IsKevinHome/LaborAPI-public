@@ -1,0 +1,59 @@
+[
+    {
+        "_id": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045",
+        "companyName": "Kellogs",
+        "unionName": "Bakery, Confectionery, Tobacco Workers and Grain Millers' International Union (BCTGM)",
+        "description": "Devworks is a full stack JavaScript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+        "demands": [
+            "Opposition to two tiered wage system",
+            "Health Care",
+            "Holidays",
+            "Retirement Benefits",
+            "Cost of Living Adjustments",
+            "vacation time"
+        ],
+        "source": [
+            "https://www.washingtonpost.com/business/2021/12/21/democrats-kelloggs-strike/",
+            "https://www.reuters.com/business/kellogg-strike-end-workers-vote-favor-new-contract-2021-12-21/"
+        ],
+        "address": "United States",
+        "startDate": "10/05/2021",
+        "endDate": "12/21/2021",
+        "ongoing": false
+    },
+    {
+        "_id": "5d713a66ec8f2b88b8f830b8",
+        "user": "5d7a514b5d2c12c7449be046",
+        "companyName": "John Deere",
+        "unionName": "United Auto Workers (UAW)",
+        "description": "\"Our members at John Deere strike for the ability to earn a decent living, retire with dignity and establish fair work rules,\" said Chuck Browning, vice president and director of the UAW's Agricultural Implement Department. \"We stay committed to bargaining until our members' goals are achieved.\"",
+        "demands": ["Cost of Living Wage Adjustment", "Retirement", "Workplace Safety"],
+        "source": [
+            "https://www.cbsnews.com/news/john-deere-strike-14-us-plants/",
+            "https://uaw.org/uaw-members-john-deere-strike-improved-standard-living-retirement-benefits-better-work-environment/"
+        ],
+        "address": "Colorado",
+        "startDate": "10/14/2021",
+        "endDate": "11/17/2021",
+        "ongoing": false
+    },
+
+    {
+        "_id": "5d725a1b7b292f5f8ceff788",
+        "user": "5c8a1d5b0190b214360dc032",
+        "companyName": "Warrior Met Coal",
+        "unionName": "United Mine Workers of America",
+        "description": "1,100 coal miners have been on strike, fighting to reverse concessions that were foisted on them in 2016 when newly formed Warrior Met Coal bought two mines and one preparation plant from Jim Walter Resources during bankruptcy proceedings.  Since then, the union calculates that workers have forked over $1.1 billion in pay, overtime, vacation, safety, health care, and other benefits to help the company regain solvency. Today 26 hedge funds have investments in Warrior Met stock, signaling their confidence in its profitability.",
+        "demands": ["Recoupe of wage cuts"],
+        "source": [
+            "https://www.al.com/business/2021/11/striking-alabama-coal-miners-protesting-again-in-new-york.html",
+            "https://www.labornotes.org/2021/08/striking-alabama-coal-miners-want-their-11-billion-back",
+            "https://www.cnn.com/2021/11/04/business/mine-workers-protest-nyc/index.html"
+        ],
+        "address": "Alabama ",
+        "startDate": "04/01/2021",
+        "endDate": "",
+        "ongoing": true
+    }
+]
